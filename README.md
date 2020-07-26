@@ -3,4 +3,4 @@ IMDb stands for Internet Movie Database. It is an online database of information
 
 ![](https://github.com/YashikaSharma123/IMDb-Extraction/blob/master/Extraction.png)
 
-Note : Web Scraping is considered as illegal in many cases. It may also cause your IP to be blocked permanently by a website. So, Take permission before scraping the data from IMDb or other websites.
+**Note :** Web Scraping is considered as illegal in many cases. It may also cause your IP to be blocked permanently by a website. So, Take permission before scraping the data from IMDb or other websites.
